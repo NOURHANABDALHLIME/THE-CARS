@@ -1,0 +1,29 @@
+.Wrangler{ display: flex;
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+}
+.ko{ display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+.io{font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.er{border: 1.5px  solid black;
+    width: 100%;
+}
+.bt{
+    color: rgb(12, 12, 12);
+        background-color: rgb(253, 251, 251);
+        width: 70px;
+        height: 25px;
+    }
+    .bt:hover{
+        color: azure;
+        background-color: black;
+        width: 75px;
+        height: 30px; 
+    }
+

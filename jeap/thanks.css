@@ -1,0 +1,16 @@
+.buy{ display: flex;
+    background-color: black;
+    justify-content: center;
+    width: 100%;
+}
+.kio{ width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.hj{ margin: 50px;
+    margin-top: 20%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
